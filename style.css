@@ -1,0 +1,39 @@
+
+table{
+    text-align: center;
+    width: 50%;
+    font-size: 25px;
+    background-color: aquamarine;
+    border-color: blue;
+    border-style: dashed;
+}
+tr{
+    font-style: 15px;
+    background-color: antiquewhite;
+    border-style: double;
+    border-color: brown;
+
+}
+td{
+    font-size: 15px;
+    width: 14.2%;
+    border-radius: 50%;
+    
+}
+div{
+    margin-top: 10%;
+    margin-right: 33%;
+    margin-left: 33%;
+
+}
+
+#i{
+    color:red
+}
+
+#time{
+    text-align: center;
+    font-size: 30px;
+   color:rgb(112, 25, 44);
+
+}
